@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ANDERSON\Desktop\POO REVISÃ0\Triangulo_sem_POO\.metadata\.plugins\org.eclipse.jdt.core
+113558702.index
